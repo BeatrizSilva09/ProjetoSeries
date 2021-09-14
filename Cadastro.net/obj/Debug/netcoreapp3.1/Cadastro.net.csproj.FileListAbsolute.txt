@@ -1,0 +1,14 @@
+C:\Users\Rodrigo Ferreira\source\repos\Cadastro.net\Cadastro.net\obj\Debug\netcoreapp3.1\Cadastro.net.csproj.AssemblyReference.cache
+C:\Users\Rodrigo Ferreira\source\repos\Cadastro.net\Cadastro.net\obj\Debug\netcoreapp3.1\Cadastro.net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo Ferreira\source\repos\Cadastro.net\Cadastro.net\obj\Debug\netcoreapp3.1\Cadastro.net.AssemblyInfoInputs.cache
+C:\Users\Rodrigo Ferreira\source\repos\Cadastro.net\Cadastro.net\obj\Debug\netcoreapp3.1\Cadastro.net.AssemblyInfo.cs
+C:\Users\Rodrigo Ferreira\source\repos\Cadastro.net\Cadastro.net\obj\Debug\netcoreapp3.1\Cadastro.net.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo Ferreira\source\repos\Cadastro.net\Cadastro.net\bin\Debug\netcoreapp3.1\Cadastro.net.exe
+C:\Users\Rodrigo Ferreira\source\repos\Cadastro.net\Cadastro.net\bin\Debug\netcoreapp3.1\Cadastro.net.deps.json
+C:\Users\Rodrigo Ferreira\source\repos\Cadastro.net\Cadastro.net\bin\Debug\netcoreapp3.1\Cadastro.net.runtimeconfig.json
+C:\Users\Rodrigo Ferreira\source\repos\Cadastro.net\Cadastro.net\bin\Debug\netcoreapp3.1\Cadastro.net.runtimeconfig.dev.json
+C:\Users\Rodrigo Ferreira\source\repos\Cadastro.net\Cadastro.net\bin\Debug\netcoreapp3.1\Cadastro.net.dll
+C:\Users\Rodrigo Ferreira\source\repos\Cadastro.net\Cadastro.net\bin\Debug\netcoreapp3.1\Cadastro.net.pdb
+C:\Users\Rodrigo Ferreira\source\repos\Cadastro.net\Cadastro.net\obj\Debug\netcoreapp3.1\Cadastro.net.dll
+C:\Users\Rodrigo Ferreira\source\repos\Cadastro.net\Cadastro.net\obj\Debug\netcoreapp3.1\Cadastro.net.pdb
+C:\Users\Rodrigo Ferreira\source\repos\Cadastro.net\Cadastro.net\obj\Debug\netcoreapp3.1\Cadastro.net.genruntimeconfig.cache
